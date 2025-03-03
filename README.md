@@ -62,6 +62,10 @@ Ensure you have the following installed:
 - Use the live map to track real-time truck movement.
 
 ## 🤝 Contributing
+
+This project is still in progress. If you would like to contribute, please contact me via email at **teklebrhandawit309@gmail.com**.
+
+
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature-name`
 3. Commit changes: `git commit -m 'Add new feature'`
